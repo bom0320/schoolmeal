@@ -60,3 +60,22 @@ ul {
   right: 10px;  
 }
 
+li {
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+hr {
+  margin-top: 20px;
+  border: none;
+  border-top: 1px solid #ccc;
+}
