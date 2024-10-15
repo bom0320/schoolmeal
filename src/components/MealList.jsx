@@ -3,7 +3,7 @@ import React from 'react';
 import MealItem from './MealItem';
 const MealList = ({ meals }) => {
     if (meals.length === 0) {
-        return <p>급식 정보가 없습니다.</p>;
+        return <p>급식 정보가 없어요.</p>;
     }
 
     return (
